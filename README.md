@@ -1,4 +1,4 @@
-# Talleres OO
+# Talleres OOP
 
 ## 1. Tangram
 
